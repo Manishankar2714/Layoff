@@ -45,7 +45,7 @@ MONGODB_URI=mongodb://localhost:27018
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Manishankar2714/Layoff.git>
 cd layoff-tracker
 ```
 
